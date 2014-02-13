@@ -1,0 +1,25 @@
+
+/* ================= General tags ================= */
+body {
+  color:#222;
+  -webkit-font-smoothing: antialiased;
+  background:white;
+}
+a:link, a:visited, a:hover, a:active, a:focus {
+  text-decoration:none;
+  outline: none;
+}
+a {
+  color:#d01502;
+}
+a:hover {
+  text-decoration:none;
+  color:#d01502;
+}
+h3 {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+h4 {
+  color:#d01502;
+}
